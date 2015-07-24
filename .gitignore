@@ -1,6 +1,8 @@
-*.*~
+*~
 lib
 bin
 include
 pyvenv.cfg
 .idea
+secrets.py
+__pycache__
