@@ -1,6 +1,7 @@
 This is an app to find people on Twitter. 
 
 Installation: 
+
 1. Create venv. Navigate to cloned directory, type this: 
 `python3.4 -m venv .` 
 
